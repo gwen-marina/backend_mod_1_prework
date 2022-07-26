@@ -5,16 +5,29 @@
 ### If Statements
 
 1. What is a conditional statement? Give three examples.
-
+ if this is true do this, elsif it isn't true do this, else none of those are true do this
 1. Why might you want to use an if-statement?
-
+If you want to check more than one condition
 1. What is the Ruby syntax for an if statement?
-
+ if this condition then
+ return this
+ (elsif if needed)
+ (return this)
+ else
+ return this
+ end
 1. How do you add multiple conditions to an if statement?
-
+with elsif
 1. Provide an example of the Ruby syntax for an if/elsif/else statement:
-
+if conditional [then]
+code...
+[elsif conditional [then]
+code...]...
+[else
+code...]
+end
 1. Other than an if-statement, can you think of any other ways we might want to use a conditional statement?
+no
 
 ### Methods
 
